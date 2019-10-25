@@ -65,7 +65,7 @@ dependencies {
     // ref:
     // https://github.com/facebook/react-native/blob/0.61-stable/template/android/app/build.gradle#L192
     //noinspection GradleDynamicVersion
-    implementation 'com.facebook.react:react-native:+'  // From node_modules
+    implementation 'com.facebook.react:react-native:0.60'  // From node_modules
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'androidx.annotation:annotation:1.1.0'
     implementation 'com.google.code.gson:gson:2.5'
