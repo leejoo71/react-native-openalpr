@@ -68,7 +68,7 @@ script:
       pwd
       ls -la
       chmod +x /.gradlew
-      TERM=dumb ./gradlew assemble
+      TERM=dumb ./gradlew assembleDebug
     fi
 deploy:
   provider: npm
